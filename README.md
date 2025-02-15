@@ -1,4 +1,4 @@
-- 👋 Hi, I’m HarikaMadu
+- 👋 Hi, I’m Burujula SandhyaRani
 - 🎓I'm B.Tech student pursuing AI&ML at NRI Institute of Technology
 - 🌱 I’m currently learning  Machine Learning , Technology
 - 🎯 Looking for opportunities in Internships, Projects
